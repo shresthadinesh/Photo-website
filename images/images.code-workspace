@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../owl-carousel"
+		},
+		{
+			"path": "../fonts"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../sass"
+		}
+	]
+}
